@@ -1,4 +1,4 @@
-plugins {
+buildScript {
     id 'com.android.application'
 }
 
